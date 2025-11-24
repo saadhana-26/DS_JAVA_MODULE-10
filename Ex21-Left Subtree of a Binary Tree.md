@@ -77,8 +77,8 @@ public class Main {
         }
     }
 }
-
 ~~~
+
 ## Output:
 <img width="458" height="307" alt="image" src="https://github.com/user-attachments/assets/59f0ee97-56c9-4020-ba04-49e79761d025" />
 
